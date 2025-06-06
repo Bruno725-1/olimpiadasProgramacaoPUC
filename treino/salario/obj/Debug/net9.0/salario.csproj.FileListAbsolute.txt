@@ -1,0 +1,14 @@
+C:\Users\User\Documents\olimpiadasProgramacao\treino\salario\bin\Debug\net9.0\salario.exe
+C:\Users\User\Documents\olimpiadasProgramacao\treino\salario\bin\Debug\net9.0\salario.deps.json
+C:\Users\User\Documents\olimpiadasProgramacao\treino\salario\bin\Debug\net9.0\salario.runtimeconfig.json
+C:\Users\User\Documents\olimpiadasProgramacao\treino\salario\bin\Debug\net9.0\salario.dll
+C:\Users\User\Documents\olimpiadasProgramacao\treino\salario\bin\Debug\net9.0\salario.pdb
+C:\Users\User\Documents\olimpiadasProgramacao\treino\salario\obj\Debug\net9.0\salario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\olimpiadasProgramacao\treino\salario\obj\Debug\net9.0\salario.AssemblyInfoInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao\treino\salario\obj\Debug\net9.0\salario.AssemblyInfo.cs
+C:\Users\User\Documents\olimpiadasProgramacao\treino\salario\obj\Debug\net9.0\salario.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao\treino\salario\obj\Debug\net9.0\salario.dll
+C:\Users\User\Documents\olimpiadasProgramacao\treino\salario\obj\Debug\net9.0\refint\salario.dll
+C:\Users\User\Documents\olimpiadasProgramacao\treino\salario\obj\Debug\net9.0\salario.pdb
+C:\Users\User\Documents\olimpiadasProgramacao\treino\salario\obj\Debug\net9.0\salario.genruntimeconfig.cache
+C:\Users\User\Documents\olimpiadasProgramacao\treino\salario\obj\Debug\net9.0\ref\salario.dll

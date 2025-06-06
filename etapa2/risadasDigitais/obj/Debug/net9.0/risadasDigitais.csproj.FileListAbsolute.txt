@@ -1,0 +1,14 @@
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\risadasDigitais\bin\Debug\net9.0\risadasDigitais.exe
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\risadasDigitais\bin\Debug\net9.0\risadasDigitais.deps.json
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\risadasDigitais\bin\Debug\net9.0\risadasDigitais.runtimeconfig.json
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\risadasDigitais\bin\Debug\net9.0\risadasDigitais.dll
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\risadasDigitais\bin\Debug\net9.0\risadasDigitais.pdb
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\risadasDigitais\obj\Debug\net9.0\risadasDigitais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\risadasDigitais\obj\Debug\net9.0\risadasDigitais.AssemblyInfoInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\risadasDigitais\obj\Debug\net9.0\risadasDigitais.AssemblyInfo.cs
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\risadasDigitais\obj\Debug\net9.0\risadasDigitais.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\risadasDigitais\obj\Debug\net9.0\risadasDigitais.dll
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\risadasDigitais\obj\Debug\net9.0\refint\risadasDigitais.dll
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\risadasDigitais\obj\Debug\net9.0\risadasDigitais.pdb
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\risadasDigitais\obj\Debug\net9.0\risadasDigitais.genruntimeconfig.cache
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\risadasDigitais\obj\Debug\net9.0\ref\risadasDigitais.dll

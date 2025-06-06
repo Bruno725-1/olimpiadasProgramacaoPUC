@@ -1,0 +1,14 @@
+C:\Users\User\Documents\olimpiadasProgramacao\treino\salarioComBonus\bin\Debug\net9.0\salarioComBonus.exe
+C:\Users\User\Documents\olimpiadasProgramacao\treino\salarioComBonus\bin\Debug\net9.0\salarioComBonus.deps.json
+C:\Users\User\Documents\olimpiadasProgramacao\treino\salarioComBonus\bin\Debug\net9.0\salarioComBonus.runtimeconfig.json
+C:\Users\User\Documents\olimpiadasProgramacao\treino\salarioComBonus\bin\Debug\net9.0\salarioComBonus.dll
+C:\Users\User\Documents\olimpiadasProgramacao\treino\salarioComBonus\bin\Debug\net9.0\salarioComBonus.pdb
+C:\Users\User\Documents\olimpiadasProgramacao\treino\salarioComBonus\obj\Debug\net9.0\salarioComBonus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\olimpiadasProgramacao\treino\salarioComBonus\obj\Debug\net9.0\salarioComBonus.AssemblyInfoInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao\treino\salarioComBonus\obj\Debug\net9.0\salarioComBonus.AssemblyInfo.cs
+C:\Users\User\Documents\olimpiadasProgramacao\treino\salarioComBonus\obj\Debug\net9.0\salarioComBonus.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao\treino\salarioComBonus\obj\Debug\net9.0\salarioComBonus.dll
+C:\Users\User\Documents\olimpiadasProgramacao\treino\salarioComBonus\obj\Debug\net9.0\refint\salarioComBonus.dll
+C:\Users\User\Documents\olimpiadasProgramacao\treino\salarioComBonus\obj\Debug\net9.0\salarioComBonus.pdb
+C:\Users\User\Documents\olimpiadasProgramacao\treino\salarioComBonus\obj\Debug\net9.0\salarioComBonus.genruntimeconfig.cache
+C:\Users\User\Documents\olimpiadasProgramacao\treino\salarioComBonus\obj\Debug\net9.0\ref\salarioComBonus.dll

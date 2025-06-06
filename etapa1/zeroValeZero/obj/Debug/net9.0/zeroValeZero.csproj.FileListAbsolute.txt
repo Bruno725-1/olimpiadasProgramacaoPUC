@@ -1,0 +1,14 @@
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\zeroValeZero\bin\Debug\net9.0\zeroValeZero.exe
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\zeroValeZero\bin\Debug\net9.0\zeroValeZero.deps.json
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\zeroValeZero\bin\Debug\net9.0\zeroValeZero.runtimeconfig.json
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\zeroValeZero\bin\Debug\net9.0\zeroValeZero.dll
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\zeroValeZero\bin\Debug\net9.0\zeroValeZero.pdb
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\zeroValeZero\obj\Debug\net9.0\zeroValeZero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\zeroValeZero\obj\Debug\net9.0\zeroValeZero.AssemblyInfoInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\zeroValeZero\obj\Debug\net9.0\zeroValeZero.AssemblyInfo.cs
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\zeroValeZero\obj\Debug\net9.0\zeroValeZero.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\zeroValeZero\obj\Debug\net9.0\zeroValeZero.dll
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\zeroValeZero\obj\Debug\net9.0\refint\zeroValeZero.dll
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\zeroValeZero\obj\Debug\net9.0\zeroValeZero.pdb
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\zeroValeZero\obj\Debug\net9.0\zeroValeZero.genruntimeconfig.cache
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\zeroValeZero\obj\Debug\net9.0\ref\zeroValeZero.dll

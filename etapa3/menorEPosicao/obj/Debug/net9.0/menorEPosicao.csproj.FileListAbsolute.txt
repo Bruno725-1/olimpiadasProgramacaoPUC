@@ -1,0 +1,14 @@
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\menorEPosicao\bin\Debug\net9.0\menorEPosicao.exe
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\menorEPosicao\bin\Debug\net9.0\menorEPosicao.deps.json
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\menorEPosicao\bin\Debug\net9.0\menorEPosicao.runtimeconfig.json
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\menorEPosicao\bin\Debug\net9.0\menorEPosicao.dll
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\menorEPosicao\bin\Debug\net9.0\menorEPosicao.pdb
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\menorEPosicao\obj\Debug\net9.0\menorEPosicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\menorEPosicao\obj\Debug\net9.0\menorEPosicao.AssemblyInfoInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\menorEPosicao\obj\Debug\net9.0\menorEPosicao.AssemblyInfo.cs
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\menorEPosicao\obj\Debug\net9.0\menorEPosicao.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\menorEPosicao\obj\Debug\net9.0\menorEPosicao.dll
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\menorEPosicao\obj\Debug\net9.0\refint\menorEPosicao.dll
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\menorEPosicao\obj\Debug\net9.0\menorEPosicao.pdb
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\menorEPosicao\obj\Debug\net9.0\menorEPosicao.genruntimeconfig.cache
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\menorEPosicao\obj\Debug\net9.0\ref\menorEPosicao.dll

@@ -1,0 +1,14 @@
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\handebol\bin\Debug\net9.0\handebol.exe
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\handebol\bin\Debug\net9.0\handebol.deps.json
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\handebol\bin\Debug\net9.0\handebol.runtimeconfig.json
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\handebol\bin\Debug\net9.0\handebol.dll
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\handebol\bin\Debug\net9.0\handebol.pdb
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\handebol\obj\Debug\net9.0\handebol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\handebol\obj\Debug\net9.0\handebol.AssemblyInfoInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\handebol\obj\Debug\net9.0\handebol.AssemblyInfo.cs
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\handebol\obj\Debug\net9.0\handebol.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\handebol\obj\Debug\net9.0\handebol.dll
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\handebol\obj\Debug\net9.0\refint\handebol.dll
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\handebol\obj\Debug\net9.0\handebol.pdb
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\handebol\obj\Debug\net9.0\handebol.genruntimeconfig.cache
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\handebol\obj\Debug\net9.0\ref\handebol.dll

@@ -1,0 +1,14 @@
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\quadradoDePares\bin\Debug\net9.0\quadradoDePares.exe
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\quadradoDePares\bin\Debug\net9.0\quadradoDePares.deps.json
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\quadradoDePares\bin\Debug\net9.0\quadradoDePares.runtimeconfig.json
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\quadradoDePares\bin\Debug\net9.0\quadradoDePares.dll
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\quadradoDePares\bin\Debug\net9.0\quadradoDePares.pdb
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\quadradoDePares\obj\Debug\net9.0\quadradoDePares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\quadradoDePares\obj\Debug\net9.0\quadradoDePares.AssemblyInfoInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\quadradoDePares\obj\Debug\net9.0\quadradoDePares.AssemblyInfo.cs
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\quadradoDePares\obj\Debug\net9.0\quadradoDePares.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\quadradoDePares\obj\Debug\net9.0\quadradoDePares.dll
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\quadradoDePares\obj\Debug\net9.0\refint\quadradoDePares.dll
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\quadradoDePares\obj\Debug\net9.0\quadradoDePares.pdb
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\quadradoDePares\obj\Debug\net9.0\quadradoDePares.genruntimeconfig.cache
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\quadradoDePares\obj\Debug\net9.0\ref\quadradoDePares.dll

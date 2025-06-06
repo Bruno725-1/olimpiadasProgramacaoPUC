@@ -1,0 +1,14 @@
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\crescenteEDecrescente\bin\Debug\net9.0\crescenteEDecrescente.exe
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\crescenteEDecrescente\bin\Debug\net9.0\crescenteEDecrescente.deps.json
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\crescenteEDecrescente\bin\Debug\net9.0\crescenteEDecrescente.runtimeconfig.json
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\crescenteEDecrescente\bin\Debug\net9.0\crescenteEDecrescente.dll
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\crescenteEDecrescente\bin\Debug\net9.0\crescenteEDecrescente.pdb
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\crescenteEDecrescente\obj\Debug\net9.0\crescenteEDecrescente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\crescenteEDecrescente\obj\Debug\net9.0\crescenteEDecrescente.AssemblyInfoInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\crescenteEDecrescente\obj\Debug\net9.0\crescenteEDecrescente.AssemblyInfo.cs
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\crescenteEDecrescente\obj\Debug\net9.0\crescenteEDecrescente.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\crescenteEDecrescente\obj\Debug\net9.0\crescenteEDecrescente.dll
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\crescenteEDecrescente\obj\Debug\net9.0\refint\crescenteEDecrescente.dll
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\crescenteEDecrescente\obj\Debug\net9.0\crescenteEDecrescente.pdb
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\crescenteEDecrescente\obj\Debug\net9.0\crescenteEDecrescente.genruntimeconfig.cache
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\crescenteEDecrescente\obj\Debug\net9.0\ref\crescenteEDecrescente.dll

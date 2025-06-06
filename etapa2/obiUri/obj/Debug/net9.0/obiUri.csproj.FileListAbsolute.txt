@@ -1,0 +1,14 @@
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\obiUri\bin\Debug\net9.0\obiUri.exe
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\obiUri\bin\Debug\net9.0\obiUri.deps.json
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\obiUri\bin\Debug\net9.0\obiUri.runtimeconfig.json
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\obiUri\bin\Debug\net9.0\obiUri.dll
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\obiUri\bin\Debug\net9.0\obiUri.pdb
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\obiUri\obj\Debug\net9.0\obiUri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\obiUri\obj\Debug\net9.0\obiUri.AssemblyInfoInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\obiUri\obj\Debug\net9.0\obiUri.AssemblyInfo.cs
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\obiUri\obj\Debug\net9.0\obiUri.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\obiUri\obj\Debug\net9.0\obiUri.dll
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\obiUri\obj\Debug\net9.0\refint\obiUri.dll
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\obiUri\obj\Debug\net9.0\obiUri.pdb
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\obiUri\obj\Debug\net9.0\obiUri.genruntimeconfig.cache
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\obiUri\obj\Debug\net9.0\ref\obiUri.dll

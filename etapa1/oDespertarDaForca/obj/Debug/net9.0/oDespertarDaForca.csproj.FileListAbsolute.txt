@@ -1,0 +1,14 @@
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\oDespertarDaForca\bin\Debug\net9.0\oDespertarDaForca.exe
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\oDespertarDaForca\bin\Debug\net9.0\oDespertarDaForca.deps.json
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\oDespertarDaForca\bin\Debug\net9.0\oDespertarDaForca.runtimeconfig.json
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\oDespertarDaForca\bin\Debug\net9.0\oDespertarDaForca.dll
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\oDespertarDaForca\bin\Debug\net9.0\oDespertarDaForca.pdb
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\oDespertarDaForca\obj\Debug\net9.0\oDespertarDaForca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\oDespertarDaForca\obj\Debug\net9.0\oDespertarDaForca.AssemblyInfoInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\oDespertarDaForca\obj\Debug\net9.0\oDespertarDaForca.AssemblyInfo.cs
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\oDespertarDaForca\obj\Debug\net9.0\oDespertarDaForca.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\oDespertarDaForca\obj\Debug\net9.0\oDespertarDaForca.dll
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\oDespertarDaForca\obj\Debug\net9.0\refint\oDespertarDaForca.dll
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\oDespertarDaForca\obj\Debug\net9.0\oDespertarDaForca.pdb
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\oDespertarDaForca\obj\Debug\net9.0\oDespertarDaForca.genruntimeconfig.cache
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\oDespertarDaForca\obj\Debug\net9.0\ref\oDespertarDaForca.dll

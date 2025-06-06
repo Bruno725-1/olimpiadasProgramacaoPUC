@@ -1,0 +1,14 @@
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\bibliotecaPascal\bin\Debug\net9.0\bibliotecaPascal.exe
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\bibliotecaPascal\bin\Debug\net9.0\bibliotecaPascal.deps.json
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\bibliotecaPascal\bin\Debug\net9.0\bibliotecaPascal.runtimeconfig.json
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\bibliotecaPascal\bin\Debug\net9.0\bibliotecaPascal.dll
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\bibliotecaPascal\bin\Debug\net9.0\bibliotecaPascal.pdb
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\bibliotecaPascal\obj\Debug\net9.0\bibliotecaPascal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\bibliotecaPascal\obj\Debug\net9.0\bibliotecaPascal.AssemblyInfoInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\bibliotecaPascal\obj\Debug\net9.0\bibliotecaPascal.AssemblyInfo.cs
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\bibliotecaPascal\obj\Debug\net9.0\bibliotecaPascal.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\bibliotecaPascal\obj\Debug\net9.0\bibliotecaPascal.dll
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\bibliotecaPascal\obj\Debug\net9.0\refint\bibliotecaPascal.dll
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\bibliotecaPascal\obj\Debug\net9.0\bibliotecaPascal.pdb
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\bibliotecaPascal\obj\Debug\net9.0\bibliotecaPascal.genruntimeconfig.cache
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\bibliotecaPascal\obj\Debug\net9.0\ref\bibliotecaPascal.dll

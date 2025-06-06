@@ -1,0 +1,14 @@
+C:\Users\User\Documents\olimpiadasProgramacao\treino\mediaPonderada\bin\Debug\net9.0\mediaPonderada.exe
+C:\Users\User\Documents\olimpiadasProgramacao\treino\mediaPonderada\bin\Debug\net9.0\mediaPonderada.deps.json
+C:\Users\User\Documents\olimpiadasProgramacao\treino\mediaPonderada\bin\Debug\net9.0\mediaPonderada.runtimeconfig.json
+C:\Users\User\Documents\olimpiadasProgramacao\treino\mediaPonderada\bin\Debug\net9.0\mediaPonderada.dll
+C:\Users\User\Documents\olimpiadasProgramacao\treino\mediaPonderada\bin\Debug\net9.0\mediaPonderada.pdb
+C:\Users\User\Documents\olimpiadasProgramacao\treino\mediaPonderada\obj\Debug\net9.0\mediaPonderada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\olimpiadasProgramacao\treino\mediaPonderada\obj\Debug\net9.0\mediaPonderada.AssemblyInfoInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao\treino\mediaPonderada\obj\Debug\net9.0\mediaPonderada.AssemblyInfo.cs
+C:\Users\User\Documents\olimpiadasProgramacao\treino\mediaPonderada\obj\Debug\net9.0\mediaPonderada.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao\treino\mediaPonderada\obj\Debug\net9.0\mediaPonderada.dll
+C:\Users\User\Documents\olimpiadasProgramacao\treino\mediaPonderada\obj\Debug\net9.0\refint\mediaPonderada.dll
+C:\Users\User\Documents\olimpiadasProgramacao\treino\mediaPonderada\obj\Debug\net9.0\mediaPonderada.pdb
+C:\Users\User\Documents\olimpiadasProgramacao\treino\mediaPonderada\obj\Debug\net9.0\mediaPonderada.genruntimeconfig.cache
+C:\Users\User\Documents\olimpiadasProgramacao\treino\mediaPonderada\obj\Debug\net9.0\ref\mediaPonderada.dll

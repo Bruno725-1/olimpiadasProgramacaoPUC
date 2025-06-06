@@ -1,0 +1,14 @@
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\aVovoDoCobol\bin\Debug\net9.0\aVovoDoCobol.exe
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\aVovoDoCobol\bin\Debug\net9.0\aVovoDoCobol.deps.json
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\aVovoDoCobol\bin\Debug\net9.0\aVovoDoCobol.runtimeconfig.json
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\aVovoDoCobol\bin\Debug\net9.0\aVovoDoCobol.dll
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\aVovoDoCobol\bin\Debug\net9.0\aVovoDoCobol.pdb
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\aVovoDoCobol\obj\Debug\net9.0\aVovoDoCobol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\aVovoDoCobol\obj\Debug\net9.0\aVovoDoCobol.AssemblyInfoInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\aVovoDoCobol\obj\Debug\net9.0\aVovoDoCobol.AssemblyInfo.cs
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\aVovoDoCobol\obj\Debug\net9.0\aVovoDoCobol.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\aVovoDoCobol\obj\Debug\net9.0\aVovoDoCobol.dll
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\aVovoDoCobol\obj\Debug\net9.0\refint\aVovoDoCobol.dll
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\aVovoDoCobol\obj\Debug\net9.0\aVovoDoCobol.pdb
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\aVovoDoCobol\obj\Debug\net9.0\aVovoDoCobol.genruntimeconfig.cache
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\aVovoDoCobol\obj\Debug\net9.0\ref\aVovoDoCobol.dll

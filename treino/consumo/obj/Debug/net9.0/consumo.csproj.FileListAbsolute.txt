@@ -1,0 +1,14 @@
+C:\Users\User\Documents\olimpiadasProgramacao\treino\consumo\bin\Debug\net9.0\consumo.exe
+C:\Users\User\Documents\olimpiadasProgramacao\treino\consumo\bin\Debug\net9.0\consumo.deps.json
+C:\Users\User\Documents\olimpiadasProgramacao\treino\consumo\bin\Debug\net9.0\consumo.runtimeconfig.json
+C:\Users\User\Documents\olimpiadasProgramacao\treino\consumo\bin\Debug\net9.0\consumo.dll
+C:\Users\User\Documents\olimpiadasProgramacao\treino\consumo\bin\Debug\net9.0\consumo.pdb
+C:\Users\User\Documents\olimpiadasProgramacao\treino\consumo\obj\Debug\net9.0\consumo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\olimpiadasProgramacao\treino\consumo\obj\Debug\net9.0\consumo.AssemblyInfoInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao\treino\consumo\obj\Debug\net9.0\consumo.AssemblyInfo.cs
+C:\Users\User\Documents\olimpiadasProgramacao\treino\consumo\obj\Debug\net9.0\consumo.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao\treino\consumo\obj\Debug\net9.0\consumo.dll
+C:\Users\User\Documents\olimpiadasProgramacao\treino\consumo\obj\Debug\net9.0\refint\consumo.dll
+C:\Users\User\Documents\olimpiadasProgramacao\treino\consumo\obj\Debug\net9.0\consumo.pdb
+C:\Users\User\Documents\olimpiadasProgramacao\treino\consumo\obj\Debug\net9.0\consumo.genruntimeconfig.cache
+C:\Users\User\Documents\olimpiadasProgramacao\treino\consumo\obj\Debug\net9.0\ref\consumo.dll

@@ -1,0 +1,14 @@
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\listaDeChamada\bin\Debug\net9.0\listaDeChamada.exe
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\listaDeChamada\bin\Debug\net9.0\listaDeChamada.deps.json
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\listaDeChamada\bin\Debug\net9.0\listaDeChamada.runtimeconfig.json
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\listaDeChamada\bin\Debug\net9.0\listaDeChamada.dll
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\listaDeChamada\bin\Debug\net9.0\listaDeChamada.pdb
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\listaDeChamada\obj\Debug\net9.0\listaDeChamada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\listaDeChamada\obj\Debug\net9.0\listaDeChamada.AssemblyInfoInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\listaDeChamada\obj\Debug\net9.0\listaDeChamada.AssemblyInfo.cs
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\listaDeChamada\obj\Debug\net9.0\listaDeChamada.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\listaDeChamada\obj\Debug\net9.0\listaDeChamada.dll
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\listaDeChamada\obj\Debug\net9.0\refint\listaDeChamada.dll
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\listaDeChamada\obj\Debug\net9.0\listaDeChamada.pdb
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\listaDeChamada\obj\Debug\net9.0\listaDeChamada.genruntimeconfig.cache
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\listaDeChamada\obj\Debug\net9.0\ref\listaDeChamada.dll

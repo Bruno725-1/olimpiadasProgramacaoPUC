@@ -1,0 +1,14 @@
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\fibonacciEmVetor\bin\Debug\net9.0\fibonacciEmVetor.exe
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\fibonacciEmVetor\bin\Debug\net9.0\fibonacciEmVetor.deps.json
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\fibonacciEmVetor\bin\Debug\net9.0\fibonacciEmVetor.runtimeconfig.json
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\fibonacciEmVetor\bin\Debug\net9.0\fibonacciEmVetor.dll
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\fibonacciEmVetor\bin\Debug\net9.0\fibonacciEmVetor.pdb
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\fibonacciEmVetor\obj\Debug\net9.0\fibonacciEmVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\fibonacciEmVetor\obj\Debug\net9.0\fibonacciEmVetor.AssemblyInfoInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\fibonacciEmVetor\obj\Debug\net9.0\fibonacciEmVetor.AssemblyInfo.cs
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\fibonacciEmVetor\obj\Debug\net9.0\fibonacciEmVetor.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\fibonacciEmVetor\obj\Debug\net9.0\fibonacciEmVetor.dll
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\fibonacciEmVetor\obj\Debug\net9.0\refint\fibonacciEmVetor.dll
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\fibonacciEmVetor\obj\Debug\net9.0\fibonacciEmVetor.pdb
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\fibonacciEmVetor\obj\Debug\net9.0\fibonacciEmVetor.genruntimeconfig.cache
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\fibonacciEmVetor\obj\Debug\net9.0\ref\fibonacciEmVetor.dll

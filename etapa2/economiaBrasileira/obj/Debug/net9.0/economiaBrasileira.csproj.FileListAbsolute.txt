@@ -1,0 +1,14 @@
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\economiaBrasileira\bin\Debug\net9.0\economiaBrasileira.exe
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\economiaBrasileira\bin\Debug\net9.0\economiaBrasileira.deps.json
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\economiaBrasileira\bin\Debug\net9.0\economiaBrasileira.runtimeconfig.json
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\economiaBrasileira\bin\Debug\net9.0\economiaBrasileira.dll
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\economiaBrasileira\bin\Debug\net9.0\economiaBrasileira.pdb
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\economiaBrasileira\obj\Debug\net9.0\economiaBrasileira.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\economiaBrasileira\obj\Debug\net9.0\economiaBrasileira.AssemblyInfoInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\economiaBrasileira\obj\Debug\net9.0\economiaBrasileira.AssemblyInfo.cs
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\economiaBrasileira\obj\Debug\net9.0\economiaBrasileira.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\economiaBrasileira\obj\Debug\net9.0\economiaBrasileira.dll
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\economiaBrasileira\obj\Debug\net9.0\refint\economiaBrasileira.dll
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\economiaBrasileira\obj\Debug\net9.0\economiaBrasileira.pdb
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\economiaBrasileira\obj\Debug\net9.0\economiaBrasileira.genruntimeconfig.cache
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\economiaBrasileira\obj\Debug\net9.0\ref\economiaBrasileira.dll

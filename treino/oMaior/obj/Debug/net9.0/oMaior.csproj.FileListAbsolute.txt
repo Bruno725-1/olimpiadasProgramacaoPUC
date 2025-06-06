@@ -1,0 +1,14 @@
+C:\Users\User\Documents\olimpiadasProgramacao\treino\oMaior\bin\Debug\net9.0\oMaior.exe
+C:\Users\User\Documents\olimpiadasProgramacao\treino\oMaior\bin\Debug\net9.0\oMaior.deps.json
+C:\Users\User\Documents\olimpiadasProgramacao\treino\oMaior\bin\Debug\net9.0\oMaior.runtimeconfig.json
+C:\Users\User\Documents\olimpiadasProgramacao\treino\oMaior\bin\Debug\net9.0\oMaior.dll
+C:\Users\User\Documents\olimpiadasProgramacao\treino\oMaior\bin\Debug\net9.0\oMaior.pdb
+C:\Users\User\Documents\olimpiadasProgramacao\treino\oMaior\obj\Debug\net9.0\oMaior.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\olimpiadasProgramacao\treino\oMaior\obj\Debug\net9.0\oMaior.AssemblyInfoInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao\treino\oMaior\obj\Debug\net9.0\oMaior.AssemblyInfo.cs
+C:\Users\User\Documents\olimpiadasProgramacao\treino\oMaior\obj\Debug\net9.0\oMaior.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao\treino\oMaior\obj\Debug\net9.0\oMaior.dll
+C:\Users\User\Documents\olimpiadasProgramacao\treino\oMaior\obj\Debug\net9.0\refint\oMaior.dll
+C:\Users\User\Documents\olimpiadasProgramacao\treino\oMaior\obj\Debug\net9.0\oMaior.pdb
+C:\Users\User\Documents\olimpiadasProgramacao\treino\oMaior\obj\Debug\net9.0\oMaior.genruntimeconfig.cache
+C:\Users\User\Documents\olimpiadasProgramacao\treino\oMaior\obj\Debug\net9.0\ref\oMaior.dll

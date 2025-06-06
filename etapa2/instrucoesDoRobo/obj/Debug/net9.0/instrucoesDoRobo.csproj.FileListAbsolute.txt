@@ -1,0 +1,14 @@
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\instrucoesDoRobo\bin\Debug\net9.0\instrucoesDoRobo.exe
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\instrucoesDoRobo\bin\Debug\net9.0\instrucoesDoRobo.deps.json
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\instrucoesDoRobo\bin\Debug\net9.0\instrucoesDoRobo.runtimeconfig.json
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\instrucoesDoRobo\bin\Debug\net9.0\instrucoesDoRobo.dll
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\instrucoesDoRobo\bin\Debug\net9.0\instrucoesDoRobo.pdb
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\instrucoesDoRobo\obj\Debug\net9.0\instrucoesDoRobo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\instrucoesDoRobo\obj\Debug\net9.0\instrucoesDoRobo.AssemblyInfoInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\instrucoesDoRobo\obj\Debug\net9.0\instrucoesDoRobo.AssemblyInfo.cs
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\instrucoesDoRobo\obj\Debug\net9.0\instrucoesDoRobo.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\instrucoesDoRobo\obj\Debug\net9.0\instrucoesDoRobo.dll
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\instrucoesDoRobo\obj\Debug\net9.0\refint\instrucoesDoRobo.dll
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\instrucoesDoRobo\obj\Debug\net9.0\instrucoesDoRobo.pdb
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\instrucoesDoRobo\obj\Debug\net9.0\instrucoesDoRobo.genruntimeconfig.cache
+C:\Users\User\Documents\olimpiadasProgramacao\etapa2\instrucoesDoRobo\obj\Debug\net9.0\ref\instrucoesDoRobo.dll

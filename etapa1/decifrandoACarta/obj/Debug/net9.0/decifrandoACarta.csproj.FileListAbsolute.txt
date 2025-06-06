@@ -1,0 +1,14 @@
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\decifrandoACarta\bin\Debug\net9.0\decifrandoACarta.exe
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\decifrandoACarta\bin\Debug\net9.0\decifrandoACarta.deps.json
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\decifrandoACarta\bin\Debug\net9.0\decifrandoACarta.runtimeconfig.json
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\decifrandoACarta\bin\Debug\net9.0\decifrandoACarta.dll
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\decifrandoACarta\bin\Debug\net9.0\decifrandoACarta.pdb
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\decifrandoACarta\obj\Debug\net9.0\decifrandoACarta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\decifrandoACarta\obj\Debug\net9.0\decifrandoACarta.AssemblyInfoInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\decifrandoACarta\obj\Debug\net9.0\decifrandoACarta.AssemblyInfo.cs
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\decifrandoACarta\obj\Debug\net9.0\decifrandoACarta.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\decifrandoACarta\obj\Debug\net9.0\decifrandoACarta.dll
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\decifrandoACarta\obj\Debug\net9.0\refint\decifrandoACarta.dll
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\decifrandoACarta\obj\Debug\net9.0\decifrandoACarta.pdb
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\decifrandoACarta\obj\Debug\net9.0\decifrandoACarta.genruntimeconfig.cache
+C:\Users\User\Documents\olimpiadasProgramacao\etapa1\decifrandoACarta\obj\Debug\net9.0\ref\decifrandoACarta.dll

@@ -1,0 +1,14 @@
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\aaah\bin\Debug\net9.0\aaah.exe
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\aaah\bin\Debug\net9.0\aaah.deps.json
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\aaah\bin\Debug\net9.0\aaah.runtimeconfig.json
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\aaah\bin\Debug\net9.0\aaah.dll
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\aaah\bin\Debug\net9.0\aaah.pdb
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\aaah\obj\Debug\net9.0\aaah.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\aaah\obj\Debug\net9.0\aaah.AssemblyInfoInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\aaah\obj\Debug\net9.0\aaah.AssemblyInfo.cs
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\aaah\obj\Debug\net9.0\aaah.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\aaah\obj\Debug\net9.0\aaah.dll
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\aaah\obj\Debug\net9.0\refint\aaah.dll
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\aaah\obj\Debug\net9.0\aaah.pdb
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\aaah\obj\Debug\net9.0\aaah.genruntimeconfig.cache
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\aaah\obj\Debug\net9.0\ref\aaah.dll

@@ -1,0 +1,4 @@
+Para que três números formem um triângulo, é necessário que o comprimento de cada lado de um triângulo seja menor que a soma dos outros dois lados
+O foda é que precisaremos verificar entre 4 números. E agora?
+Precisaremos fazer o programa percorrer todas as possibilidades de soma possíveis, ou seja
+a+b, b+c, c+d, d+a, a+c, b+d

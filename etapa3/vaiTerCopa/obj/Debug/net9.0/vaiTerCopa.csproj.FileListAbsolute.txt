@@ -1,0 +1,14 @@
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\vaiTerCopa\bin\Debug\net9.0\vaiTerCopa.exe
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\vaiTerCopa\bin\Debug\net9.0\vaiTerCopa.deps.json
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\vaiTerCopa\bin\Debug\net9.0\vaiTerCopa.runtimeconfig.json
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\vaiTerCopa\bin\Debug\net9.0\vaiTerCopa.dll
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\vaiTerCopa\bin\Debug\net9.0\vaiTerCopa.pdb
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\vaiTerCopa\obj\Debug\net9.0\vaiTerCopa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\vaiTerCopa\obj\Debug\net9.0\vaiTerCopa.AssemblyInfoInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\vaiTerCopa\obj\Debug\net9.0\vaiTerCopa.AssemblyInfo.cs
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\vaiTerCopa\obj\Debug\net9.0\vaiTerCopa.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\vaiTerCopa\obj\Debug\net9.0\vaiTerCopa.dll
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\vaiTerCopa\obj\Debug\net9.0\refint\vaiTerCopa.dll
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\vaiTerCopa\obj\Debug\net9.0\vaiTerCopa.pdb
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\vaiTerCopa\obj\Debug\net9.0\vaiTerCopa.genruntimeconfig.cache
+C:\Users\User\Documents\olimpiadasProgramacao\etapa3\vaiTerCopa\obj\Debug\net9.0\ref\vaiTerCopa.dll

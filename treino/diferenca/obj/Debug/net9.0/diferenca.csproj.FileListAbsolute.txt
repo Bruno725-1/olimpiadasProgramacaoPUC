@@ -1,0 +1,14 @@
+C:\Users\User\Documents\olimpiadasProgramacao\treino\diferenca\bin\Debug\net9.0\diferenca.exe
+C:\Users\User\Documents\olimpiadasProgramacao\treino\diferenca\bin\Debug\net9.0\diferenca.deps.json
+C:\Users\User\Documents\olimpiadasProgramacao\treino\diferenca\bin\Debug\net9.0\diferenca.runtimeconfig.json
+C:\Users\User\Documents\olimpiadasProgramacao\treino\diferenca\bin\Debug\net9.0\diferenca.dll
+C:\Users\User\Documents\olimpiadasProgramacao\treino\diferenca\bin\Debug\net9.0\diferenca.pdb
+C:\Users\User\Documents\olimpiadasProgramacao\treino\diferenca\obj\Debug\net9.0\diferenca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\olimpiadasProgramacao\treino\diferenca\obj\Debug\net9.0\diferenca.AssemblyInfoInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao\treino\diferenca\obj\Debug\net9.0\diferenca.AssemblyInfo.cs
+C:\Users\User\Documents\olimpiadasProgramacao\treino\diferenca\obj\Debug\net9.0\diferenca.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao\treino\diferenca\obj\Debug\net9.0\diferenca.dll
+C:\Users\User\Documents\olimpiadasProgramacao\treino\diferenca\obj\Debug\net9.0\refint\diferenca.dll
+C:\Users\User\Documents\olimpiadasProgramacao\treino\diferenca\obj\Debug\net9.0\diferenca.pdb
+C:\Users\User\Documents\olimpiadasProgramacao\treino\diferenca\obj\Debug\net9.0\diferenca.genruntimeconfig.cache
+C:\Users\User\Documents\olimpiadasProgramacao\treino\diferenca\obj\Debug\net9.0\ref\diferenca.dll
