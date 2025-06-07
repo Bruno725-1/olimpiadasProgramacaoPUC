@@ -1,0 +1,15 @@
+C:\Users\1561719\Documents\olimpiadasProgramacaoPUC\grandeFinal\combinador\bin\Debug\net9.0\combinador.exe
+C:\Users\1561719\Documents\olimpiadasProgramacaoPUC\grandeFinal\combinador\bin\Debug\net9.0\combinador.deps.json
+C:\Users\1561719\Documents\olimpiadasProgramacaoPUC\grandeFinal\combinador\bin\Debug\net9.0\combinador.runtimeconfig.json
+C:\Users\1561719\Documents\olimpiadasProgramacaoPUC\grandeFinal\combinador\bin\Debug\net9.0\combinador.dll
+C:\Users\1561719\Documents\olimpiadasProgramacaoPUC\grandeFinal\combinador\bin\Debug\net9.0\combinador.pdb
+C:\Users\1561719\Documents\olimpiadasProgramacaoPUC\grandeFinal\combinador\obj\Debug\net9.0\combinador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1561719\Documents\olimpiadasProgramacaoPUC\grandeFinal\combinador\obj\Debug\net9.0\combinador.AssemblyInfoInputs.cache
+C:\Users\1561719\Documents\olimpiadasProgramacaoPUC\grandeFinal\combinador\obj\Debug\net9.0\combinador.AssemblyInfo.cs
+C:\Users\1561719\Documents\olimpiadasProgramacaoPUC\grandeFinal\combinador\obj\Debug\net9.0\combinador.csproj.CoreCompileInputs.cache
+C:\Users\1561719\Documents\olimpiadasProgramacaoPUC\grandeFinal\combinador\obj\Debug\net9.0\combinador.sourcelink.json
+C:\Users\1561719\Documents\olimpiadasProgramacaoPUC\grandeFinal\combinador\obj\Debug\net9.0\combinador.dll
+C:\Users\1561719\Documents\olimpiadasProgramacaoPUC\grandeFinal\combinador\obj\Debug\net9.0\refint\combinador.dll
+C:\Users\1561719\Documents\olimpiadasProgramacaoPUC\grandeFinal\combinador\obj\Debug\net9.0\combinador.pdb
+C:\Users\1561719\Documents\olimpiadasProgramacaoPUC\grandeFinal\combinador\obj\Debug\net9.0\combinador.genruntimeconfig.cache
+C:\Users\1561719\Documents\olimpiadasProgramacaoPUC\grandeFinal\combinador\obj\Debug\net9.0\ref\combinador.dll

@@ -1,0 +1,2 @@
+O que devo fazer?
+Como os primeiros 11 dígitos do primeiro valor podem ser desconsiderados, posso iniciar um loop a partir do índice 11, que será o primeiro número válido para a soma

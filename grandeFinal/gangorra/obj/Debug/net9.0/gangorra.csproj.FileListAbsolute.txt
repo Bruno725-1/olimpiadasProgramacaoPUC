@@ -1,0 +1,15 @@
+C:\Users\1561719\Documents\olimpiadasProgramacaoPUC\grandeFinal\gangorra\bin\Debug\net9.0\gangorra.exe
+C:\Users\1561719\Documents\olimpiadasProgramacaoPUC\grandeFinal\gangorra\bin\Debug\net9.0\gangorra.deps.json
+C:\Users\1561719\Documents\olimpiadasProgramacaoPUC\grandeFinal\gangorra\bin\Debug\net9.0\gangorra.runtimeconfig.json
+C:\Users\1561719\Documents\olimpiadasProgramacaoPUC\grandeFinal\gangorra\bin\Debug\net9.0\gangorra.dll
+C:\Users\1561719\Documents\olimpiadasProgramacaoPUC\grandeFinal\gangorra\bin\Debug\net9.0\gangorra.pdb
+C:\Users\1561719\Documents\olimpiadasProgramacaoPUC\grandeFinal\gangorra\obj\Debug\net9.0\gangorra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1561719\Documents\olimpiadasProgramacaoPUC\grandeFinal\gangorra\obj\Debug\net9.0\gangorra.AssemblyInfoInputs.cache
+C:\Users\1561719\Documents\olimpiadasProgramacaoPUC\grandeFinal\gangorra\obj\Debug\net9.0\gangorra.AssemblyInfo.cs
+C:\Users\1561719\Documents\olimpiadasProgramacaoPUC\grandeFinal\gangorra\obj\Debug\net9.0\gangorra.csproj.CoreCompileInputs.cache
+C:\Users\1561719\Documents\olimpiadasProgramacaoPUC\grandeFinal\gangorra\obj\Debug\net9.0\gangorra.sourcelink.json
+C:\Users\1561719\Documents\olimpiadasProgramacaoPUC\grandeFinal\gangorra\obj\Debug\net9.0\gangorra.dll
+C:\Users\1561719\Documents\olimpiadasProgramacaoPUC\grandeFinal\gangorra\obj\Debug\net9.0\refint\gangorra.dll
+C:\Users\1561719\Documents\olimpiadasProgramacaoPUC\grandeFinal\gangorra\obj\Debug\net9.0\gangorra.pdb
+C:\Users\1561719\Documents\olimpiadasProgramacaoPUC\grandeFinal\gangorra\obj\Debug\net9.0\gangorra.genruntimeconfig.cache
+C:\Users\1561719\Documents\olimpiadasProgramacaoPUC\grandeFinal\gangorra\obj\Debug\net9.0\ref\gangorra.dll

@@ -1,0 +1,15 @@
+C:\Users\1561719\Documents\olimpiadasProgramacaoPUC\grandeFinal\tipoDeCombustivel\bin\Debug\net9.0\tipoDeCombustivel.exe
+C:\Users\1561719\Documents\olimpiadasProgramacaoPUC\grandeFinal\tipoDeCombustivel\bin\Debug\net9.0\tipoDeCombustivel.deps.json
+C:\Users\1561719\Documents\olimpiadasProgramacaoPUC\grandeFinal\tipoDeCombustivel\bin\Debug\net9.0\tipoDeCombustivel.runtimeconfig.json
+C:\Users\1561719\Documents\olimpiadasProgramacaoPUC\grandeFinal\tipoDeCombustivel\bin\Debug\net9.0\tipoDeCombustivel.dll
+C:\Users\1561719\Documents\olimpiadasProgramacaoPUC\grandeFinal\tipoDeCombustivel\bin\Debug\net9.0\tipoDeCombustivel.pdb
+C:\Users\1561719\Documents\olimpiadasProgramacaoPUC\grandeFinal\tipoDeCombustivel\obj\Debug\net9.0\tipoDeCombustivel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1561719\Documents\olimpiadasProgramacaoPUC\grandeFinal\tipoDeCombustivel\obj\Debug\net9.0\tipoDeCombustivel.AssemblyInfoInputs.cache
+C:\Users\1561719\Documents\olimpiadasProgramacaoPUC\grandeFinal\tipoDeCombustivel\obj\Debug\net9.0\tipoDeCombustivel.AssemblyInfo.cs
+C:\Users\1561719\Documents\olimpiadasProgramacaoPUC\grandeFinal\tipoDeCombustivel\obj\Debug\net9.0\tipoDeCombustivel.csproj.CoreCompileInputs.cache
+C:\Users\1561719\Documents\olimpiadasProgramacaoPUC\grandeFinal\tipoDeCombustivel\obj\Debug\net9.0\tipoDeCombustivel.sourcelink.json
+C:\Users\1561719\Documents\olimpiadasProgramacaoPUC\grandeFinal\tipoDeCombustivel\obj\Debug\net9.0\tipoDeCombustivel.dll
+C:\Users\1561719\Documents\olimpiadasProgramacaoPUC\grandeFinal\tipoDeCombustivel\obj\Debug\net9.0\refint\tipoDeCombustivel.dll
+C:\Users\1561719\Documents\olimpiadasProgramacaoPUC\grandeFinal\tipoDeCombustivel\obj\Debug\net9.0\tipoDeCombustivel.pdb
+C:\Users\1561719\Documents\olimpiadasProgramacaoPUC\grandeFinal\tipoDeCombustivel\obj\Debug\net9.0\tipoDeCombustivel.genruntimeconfig.cache
+C:\Users\1561719\Documents\olimpiadasProgramacaoPUC\grandeFinal\tipoDeCombustivel\obj\Debug\net9.0\ref\tipoDeCombustivel.dll
