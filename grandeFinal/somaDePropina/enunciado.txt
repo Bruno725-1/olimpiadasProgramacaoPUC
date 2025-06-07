@@ -1,0 +1,8 @@
+Soma de Propina
+Por Neilor Tonin, URI BR Brasil
+A agência gaúcha para investigações criminais denominada OBI (Operação de Baita Investigação) notou que, a exemplo do que ocorreu na Petrobrás, muito dinheiro foi desviado dos cofres públicos do estado para pagamento de propina a políticos nos últimos anos, especialmente pelo partido QU (Quadrilha Unida).
+A investigação está em andamento e a agência recrutou você para converter alguns valores que ficaram com caracteres estranhos após terem sidos descriptografados dos arquivos originais. Sua tarefa neste caso é relativamente simples: basta retirar todos os caracteres estranhos (não numéricos) de cada um dos dois valores disponíveis e somar estes valores. Apenas tome o cuidado de separar da soma os primeiros 11 dígitos do primeiro valor. Eles correspondem ao CPF do corrupto :)
+Entrada
+A entrada é composta por duas linhas, cada uma delas contendo entre 1 e 60 caracteres ('0'-'9' e outros caracteres não numéricos ou, pelo menos, 1 caracter '0'-'9') e no máximo um ponto ".". Desconsiderando os caracteres não numéricos, o número final não deve ter mais de 17 caracteres (incluindo o ponto decimal). Qualquer número após a segunda casa decimal deve ser descartado.
+Saída
+Imprima o CPF do corrupto, conforme apresentado abaixo e soma dos valores que foram desviados dos cofres públicos, sempre com duas casas decimais.
